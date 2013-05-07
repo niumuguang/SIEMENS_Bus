@@ -1,0 +1,47 @@
+#Inventor V1.0 ascii
+
+  MenuBar {
+
+    MenuPopup {
+      label "&File"
+      MenuFileSelection{
+        label "&New static scene..."
+        mode OPEN
+        auditorID "NewStaticScene"
+      }
+      MenuFileSelection{
+        label "&New moving scene..."
+        mode OPEN
+        auditorID "NewMovingScene"
+      }
+      MenuSeparator{}
+      MenuPushButton{
+        label "&Exit..."
+      }
+    }
+
+    MenuPopup {
+      label "Help"
+      MenuPushButtonLauncher {
+        label "About collision detection ..."
+        TopLevelDialog {
+          label "About collision detection ..."
+#          modalFrame TRUE
+          resizable FALSE
+          DialogLabel{
+            minWidth 400
+            minHeight 250
+            edgeStyle SHADOW_IN
+            labelAlignment CENTER
+            label "This sample show the Collision manager feature."
+          }
+          DialogSeparator {}
+          DialogLabel {
+            maxHeight 50
+            labelAlignment CENTER
+            label "Copyright © Mercury Computer System Inc, 2006"
+          }
+        }
+      }
+    }
+  } #MenuBar

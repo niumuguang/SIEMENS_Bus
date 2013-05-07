@@ -1,0 +1,9 @@
+#Inventor V2.1 ascii
+
+Separator {
+  Material {
+	diffuseColor	0 0.7 0.9
+  }
+  Cube {
+  }
+}

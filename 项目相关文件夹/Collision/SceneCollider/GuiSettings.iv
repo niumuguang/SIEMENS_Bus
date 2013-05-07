@@ -1,0 +1,50 @@
+#Inventor V1.0 ascii
+
+      RowDialog {
+
+            DialogCheckBox {
+              label "Activate collision"
+              auditorID "ActiveCollision"
+              state TRUE
+            }
+
+          DialogIntegerSlider {
+            label "max triangle/leaf in static scene"
+            auditorID "MaxTriangleStaticSlider"
+            min 100
+            max 10000
+            value 1000
+          }
+
+          DialogIntegerSlider {
+            label "max triangle/leaf in moving scene"
+            auditorID "MaxTriangleMovingSlider"
+            min 100
+            max 10000
+            value 100
+          }
+          
+         DialogSeparator {
+         }
+         
+         DialogLabel {
+            label "Reading file :"
+            auditorID "MessageFile"
+          }
+         DialogLabel {
+            label "Static scene :"
+            auditorID "MessageStatic"
+          }
+         DialogLabel {
+            label "Moving scene :"
+            auditorID "MessageMoving"
+          }
+         DialogLabel {
+            label "Collision :"
+            auditorID "MessageCollision"
+          }
+         DialogLabel {
+            label "Warning :"
+            auditorID "MessageWarning"
+          }
+       }

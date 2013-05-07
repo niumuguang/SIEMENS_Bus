@@ -1,0 +1,79 @@
+#Inventor V1.0 ascii
+
+TopLevelDialog {
+  label "Background Node"
+  minWidth 1
+  minHeight 1
+  width 200
+  #height 600
+
+  RowDialog {
+
+    DialogSeparator {}
+
+    DialogLabel {
+      label "Gradient Background"
+    }
+
+    DialogCheckBox {
+      label "Visible: "
+      state TRUE
+      auditorID "gradientVisible"
+    }
+
+    DialogPushButton {
+      label "Color0: "
+      auditorID "color0"
+    }
+
+    DialogPushButton {
+      label "Color1: "
+      auditorID "color1"
+    }
+
+    DialogCheckBox {
+      label "Swap colors: " 
+      auditorID "swapColors"
+    }
+
+    #------------------------------------------------------------------
+    DialogSeparator {}
+
+    DialogLabel {
+      label "Image Background"
+    }
+
+    DialogCheckBox {
+      label "Visible: "
+      state TRUE
+      auditorID "imageVisible"
+    }
+
+    DialogComboBox {
+      items [
+        "NONE"       ,
+        "CENTER"     ,
+        "LOWER_LEFT" ,
+        "UPPER_LEFT" ,
+        "UPPER_RIGHT",
+        "LOWER_RIGHT",
+        "STRETCH"    ,
+        "TILE"
+      ]
+      label "Style: "
+      auditorID "style"
+      selectedItem 2
+    }
+
+    DialogEditText {
+      label "Image file: "
+      auditorID "filename"
+    }
+    DialogPushButton {
+      buttonLabel "Browse"
+      auditorID "browse"
+    }
+
+  } #RowDialog
+
+} #TopLevelDialog
