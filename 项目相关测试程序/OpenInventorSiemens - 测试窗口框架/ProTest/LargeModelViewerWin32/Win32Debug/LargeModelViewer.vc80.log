@@ -1,0 +1,52 @@
+﻿生成启动时间为 2013/7/18 16:44:13。
+     1>项目“C:\Users\Lio\Documents\GitHub\OpenInventorSiemens - 测试窗口框架\ProTest\LargeModelViewerWin32\LargeModelViewer.vc80.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Win32Debug\LargeModelViewer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /D _MBCS /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32Debug/" /Fd".\Win32Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LargeModelViewer.cxx LargeModelViewerView.cxx
+         LargeModelViewer.cxx
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\lio\documents\github\openinventorsiemens - 测试窗口框架\protest\largemodelviewerwin32\largemodelviewer.cxx(106): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(5380) : 参见“CWinApp::Enable3dControls”的声明
+         LargeModelViewerView.cxx
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\inventor\nodes\sotransparencytype.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\inventor\elements\sotransparencytypeelement.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Win32Debug/LargeModelViewer.exe" /INCREMENTAL /NOLOGO OpenGL32.lib /MANIFEST /ManifestFile:".\Win32Debug\LargeModelViewer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Win32Debug/LargeModelViewer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Win32Debug\LargeModelViewer.lib" /MACHINE:X86 .\Win32Debug\LargeModelViewer.res
+         .\Win32Debug\LargeModelViewer.exe.embed.manifest.res
+         .\Win32Debug/DecimationStrategyDialog.obj
+         .\Win32Debug/InlineLoader.obj
+         .\Win32Debug/LargeModelViewer.obj
+         .\Win32Debug/LargeModelViewerDoc.obj
+         .\Win32Debug/LargeModelViewerView.obj
+         .\Win32Debug/MainFrm.obj
+         .\Win32Debug/OctreeOrderingDialog.obj
+         .\Win32Debug/ValueOrderingDialog.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Win32Debug\LargeModelViewer.exe.embed.manifest" /manifest .\Win32Debug\LargeModelViewer.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         LargeModelViewer.vc80.vcxproj -> C:\Users\Lio\Documents\GitHub\OpenInventorSiemens - 测试窗口框架\ProTest\LargeModelViewerWin32\.\Win32Debug\LargeModelViewer.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Win32Debug\LargeModelViewer.unsuccessfulbuild”。
+         正在对“.\Win32Debug\LargeModelViewer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\OpenInventorSiemens - 测试窗口框架\ProTest\LargeModelViewerWin32\LargeModelViewer.vc80.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.23

@@ -34,8 +34,7 @@
 
 SoSeparator *mainRoot;
 
-static void 
-eventCB(void *data, SoEventCallback *ev)
+static void eventCB(void *data, SoEventCallback *ev)
 {
   SoCSGOperation *CSGOP = (SoCSGOperation *)data;
 

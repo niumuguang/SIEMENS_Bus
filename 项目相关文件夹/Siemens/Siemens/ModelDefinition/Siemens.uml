@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="6cfb1256-5ddd-4dc3-be3c-a138dc8f03d5"
+  name="Siemens" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="bab947ff-ae86-4cc0-93cc-42c0102bf61e">
+      <body>主要的功能类
+包含很多实现函数
+</body>
+    </comment>
+    <comment
+      Id="6996a66e-98bf-4e95-a231-efc24e2d60ae">
+      <annotatedElements>
+        <classMoniker
+          Id="d139c61a-4f32-4b5a-95b6-927b018fc29a"
+          LastKnownName="MainFrm"
+          LastKnownLocation="Siemens.uml" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="d139c61a-4f32-4b5a-95b6-927b018fc29a"
+        name="MainFrm"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <targetEnds>
+          <association
+            Id="e0da9f59-0849-488c-98a6-30e124b94276"
+            isDerived="false"
+            sourceEndRoleName="MainFrm"
+            targetEndRoleName="Interface1"
+            isLeaf="false"
+            isAbstract="false">
+            <interfaceMoniker
+              Id="9f17c1be-5a58-4218-a66a-2fcbb6cf62cf"
+              LastKnownName="Interface1"
+              LastKnownLocation="Siemens.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b668815c-5e89-4760-a5c7-89513ff00d77"
+                  name="MainFrm"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="59109d71-fc25-4a6a-ae5f-7ac539b7fd83"
+                  name="Interface1"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property
+            Id="ccbf7a85-6a53-45d8-ae9d-be371d1192b0"
+            name="m_wndMenuBar"
+            visibility="Protected"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="1301f242-3a76-41e4-8ef6-33edd447443b"
+                LastKnownName="CMFCMenuBar"
+                LastKnownLocation="Siemens.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="003ab9fa-e19d-4bb7-b2c6-8f3f73bdce16"
+            name="m_wndToolBar"
+            visibility="Protected"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <description>工具条对象</description>
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="51cb450d-fb33-47c2-a5b5-23298b8402e4"
+                LastKnownName="CMFCToolBar"
+                LastKnownLocation="Siemens.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="b381ba1f-9a6e-499b-953c-74bbbf9953ef"
+            name="m_wndStatusBar"
+            visibility="Protected"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="7bda151b-8bec-40a3-9ae0-c1954cc9d676"
+                LastKnownName="CMFCStatusBar"
+                LastKnownLocation="Siemens.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="cc773666-a9a2-4873-9c25-cc4566c1e7a5"
+            name="m_wndProperties"
+            visibility="Protected"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="4a41207b-d237-409b-9a13-0adb9e47f6a4"
+                LastKnownName="CPropertiesWnd"
+                LastKnownLocation="Siemens.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="8b82df70-02a5-42a2-8f5e-efd9defd062d"
+            name="Operation1"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="3b2a30fc-7203-4711-bd55-6464e1c35ccc"
+        name="CWNDTOOLBAR" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="51cb450d-fb33-47c2-a5b5-23298b8402e4"
+        name="CMFCToolBar" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="1301f242-3a76-41e4-8ef6-33edd447443b"
+        name="CMFCMenuBar" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="4a41207b-d237-409b-9a13-0adb9e47f6a4"
+        name="CPropertiesWnd" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="7bda151b-8bec-40a3-9ae0-c1954cc9d676"
+        name="CMFCStatusBar" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="9f17c1be-5a58-4218-a66a-2fcbb6cf62cf"
+        name="Interface1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="09383dc1-4b81-4c65-818f-b746c9a854b6"
+        LastKnownName="连接排"
+        LastKnownLocation="Package_1548.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

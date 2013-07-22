@@ -218,6 +218,7 @@ void CMagellanMfcView::OnInitialUpdate()
 	m_pSceneRoot->addChild(m_translation);
 
 	m_rotation = new SoRotation();
+	m_rotation->setName("ss");
 	m_pSceneRoot->addChild(m_rotation);
 
 	SoEventCallback *cb = new SoEventCallback;
@@ -240,7 +241,7 @@ void CMagellanMfcView::OnInitialUpdate()
 	m_pViewer->setHeadlight(TRUE);
 	m_pViewer->setSceneGraph(m_pSceneRoot);
 	m_pViewer->setTitle("Demo Space Mouse with Mfc \n");
-
+	//
 	if (! SoWinSpaceball::exists()) {
 		fprintf(stderr, "Sorry, no Space Ball or Magellan Space Mouse on this display!\n");
 	} 

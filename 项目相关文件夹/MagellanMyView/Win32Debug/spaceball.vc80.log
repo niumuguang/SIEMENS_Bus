@@ -1,0 +1,50 @@
+﻿生成启动时间为 2013/5/8 23:58:46。
+     1>项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\MagellanMyView\spaceball.vc80.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“.\Win32Debug\SpaceBall.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“.\Win32Debug\SpaceBall.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /D _DEBUG /D DEBUG /D WIN32 /D _WINDOWS /D __ANSI_CPP__ /D __STDC__ /D _VC80_UPGRADE=0x0710 /D _AFXDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32Debug/" /Fd".\Win32Debug/vc100.pdb" /FR".\Win32Debug/" /Gd /TP /analyze- /errorReport:prompt MyExaminerViewer.cxx viewerTest.cxx
+         MyExaminerViewer.cxx
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sgThumbWheelWidgetClass”的前面)
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(70): error C2146: 语法错误: 缺少“;”(在标识符“SgCreateThumbWheel”的前面)
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(70): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(70): error C2146: 语法错误: 缺少“)”(在标识符“parent”的前面)
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(70): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(71): error C2059: 语法错误:“)”
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(78): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(78): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\sgm\thumbwheel.h(78): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\inventor\nodes\sotransparencytype.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\inventor\elements\sotransparencytypeelement.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(805): error C2059: 语法错误:“}”
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(805): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(805): error C2059: 语法错误:“}”
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(817): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(817): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1510): error C2440: “初始化”: 无法从“HWND”转换为“SoWinResource”
+                 无构造函数可以接受源类型，或构造函数重载决策不明确
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1514): error C2039: “getResource”: 不是“SoWinResource”的成员
+                 c:\program files (x86)\mercury\oiv8.0\include\inventor\win\sowinresource.h(41) : 参见“SoWinResource”的声明
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1516): error C2039: “getResource”: 不是“SoWinResource”的成员
+                 c:\program files (x86)\mercury\oiv8.0\include\inventor\win\sowinresource.h(41) : 参见“SoWinResource”的声明
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1518): error C2039: “getResource”: 不是“SoWinResource”的成员
+                 c:\program files (x86)\mercury\oiv8.0\include\inventor\win\sowinresource.h(41) : 参见“SoWinResource”的声明
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1626): error C3861: “XmToggleButtonGetState”: 找不到标识符
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmyview\myexaminerviewer.cxx(1634): error C3861: “XmToggleButtonGetState”: 找不到标识符
+         viewerTest.cxx
+         正在生成代码...
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\MagellanMyView\spaceball.vc80.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.93

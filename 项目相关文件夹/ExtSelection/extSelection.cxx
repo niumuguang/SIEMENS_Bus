@@ -119,7 +119,9 @@ main(int argc, char **argv)
   viewer->setGLRenderAction(new SoBoxHighlightRenderAction());
   viewer->redrawOnSelectionChange(root);
   viewer->setTitle("Selection Test");
-  viewer->setViewing(FALSE);
+  viewer->setFeedbackVisibility(TRUE);
+  viewer->setFeedbackSize(100);
+  viewer->setViewing(TRUE);
   viewer->show();
 
   // Setup the control dialog --------------------------------------------------

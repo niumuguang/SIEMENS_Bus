@@ -1,0 +1,299 @@
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3
+
+Inventor error in SoFaceSet::GLRender():
+Too few normals specified; need 4, have 3

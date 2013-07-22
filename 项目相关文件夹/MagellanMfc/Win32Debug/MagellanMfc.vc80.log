@@ -1,5 +1,5 @@
-﻿生成启动时间为 2013/5/7 14:33:12。
-     1>项目“C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\Magellan\MagellanMfc\MagellanMfc.vc80.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2013/5/7 19:00:25。
+     1>项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\MagellanMfc\MagellanMfc.vc80.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“.\Win32Debug\MagellanMfc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
@@ -13,7 +13,7 @@
      1>c:\program files (x86)\mercury\oiv8.0\include\inventor\elements\sotransparencytypeelement.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
      1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
      1>c:\program files (x86)\mercury\oiv8.0\include\soversion.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-     1>c:\program files (x86)\mercury\oiv8.0\src\inventor\examples\features\magellan\magellanmfc\magellanmfc.cxx(84): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+     1>c:\users\lio\documents\github\siemens_bus\项目相关文件夹\magellanmfc\magellanmfc.cxx(84): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(5380) : 参见“CWinApp::Enable3dControls”的声明
          MagellanMfcDoc.cxx
          MagellanMfcView.cxx
@@ -46,21 +46,15 @@
          .\Win32Debug/StdAfx.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Win32Debug\MagellanMfc.exe.embed.manifest" /manifest .\Win32Debug\MagellanMfc.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Win32Debug\MagellanMfc.exe.embed.manifest.res" .\Win32Debug\MagellanMfc_manifest.rc 
+         所有输出均为最新。
        LinkEmbedManifest:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Win32Debug/MagellanMFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Win32Debug\MagellanMfc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Win32Debug/MagellanMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Win32Debug\MagellanMfc.lib" /MACHINE:X86 .\Win32Debug\MagellanMfc.res
-         .\Win32Debug\MagellanMfc.exe.embed.manifest.res
-         .\Win32Debug/MagellanMfc.obj
-         .\Win32Debug/MagellanMfcDoc.obj
-         .\Win32Debug/MagellanMfcView.obj
-         .\Win32Debug/MainFrm.obj
-         .\Win32Debug/StdAfx.obj
-         MagellanMfc.vc80.vcxproj -> C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\Magellan\MagellanMfc\.\Win32Debug\MagellanMfc.exe
+         所有输出均为最新。
+         MagellanMfc.vc80.vcxproj -> C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\MagellanMfc\.\Win32Debug\MagellanMfc.exe
        FinalizeBuildStatus:
          正在删除文件“.\Win32Debug\MagellanMfc.unsuccessfulbuild”。
          正在对“.\Win32Debug\MagellanMfc.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\Magellan\MagellanMfc\MagellanMfc.vc80.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\MagellanMfc\MagellanMfc.vc80.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:07.61
+已用时间 00:00:08.12

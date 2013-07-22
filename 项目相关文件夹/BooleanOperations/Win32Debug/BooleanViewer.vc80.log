@@ -1,5 +1,5 @@
-﻿生成启动时间为 2013/5/4 2:06:10。
-     1>项目“C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\BooleanOperations\BooleanViewer.vc80.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2013/5/16 10:10:27。
+     1>项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\BooleanOperations\BooleanViewer.vc80.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“.\Win32Debug\BooleanViewer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
@@ -20,18 +20,17 @@
          .\Win32Debug/BooleanViewer.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Win32Debug\BooleanViewer.exe.embed.manifest" /manifest .\Win32Debug\BooleanViewer.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Win32Debug\BooleanViewer.exe.embed.manifest.res" .\Win32Debug\BooleanViewer_manifest.rc 
+         所有输出均为最新。
        LinkEmbedManifest:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Win32Debug/BooleanViewer.exe" /INCREMENTAL /NOLOGO wsock32.lib glu32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Win32Debug\BooleanViewer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Win32Debug/BooleanViewer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Win32Debug\BooleanViewer.lib" /MACHINE:X86 .\Win32Debug\BooleanViewer.exe.embed.manifest.res
-         .\Win32Debug/BooleanViewer.obj
-         BooleanViewer.vc80.vcxproj -> C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\BooleanOperations\.\Win32Debug\BooleanViewer.exe
+         所有输出均为最新。
+         BooleanViewer.vc80.vcxproj -> C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\BooleanOperations\.\Win32Debug\BooleanViewer.exe
        BscMake:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Win32Debug\BooleanViewer.bsc" .\Win32Debug/BooleanViewer.sbr
        FinalizeBuildStatus:
          正在删除文件“.\Win32Debug\BooleanViewer.unsuccessfulbuild”。
          正在对“.\Win32Debug\BooleanViewer.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\Program Files (x86)\Mercury\OIV8.0\src\Inventor\examples\Features\BooleanOperations\BooleanViewer.vc80.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\BooleanOperations\BooleanViewer.vc80.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:04.16
+已用时间 00:00:04.02

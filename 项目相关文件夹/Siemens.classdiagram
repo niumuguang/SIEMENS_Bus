@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="fae445dc-86e4-4484-aa80-ecc25df23e2c" name="Siemens" linkedPackageId="53424aaf-8851-40ca-9a1e-fcd4d7d1f487" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <ownedCommentsInternal>
+    <comment Id="d67550e8-a5dc-49e5-a3c3-64c416ec5e4d">
+      <elementDefinition Id="bab947ff-ae86-4cc0-93cc-42c0102bf61e" />
+      <body>主要的功能类
+包含很多实现函数
+</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="6aabe864-9543-4d77-813c-fe96b2c2d9e4">
+      <profileInstance Id="fcc65730-a2b5-4ca0-92a5-fbcc70e2d13c" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="b2ce97b8-5bae-417c-ba8e-9be90c031c1d">
+      <profileInstance Id="48cccc47-262c-4bee-ad4a-fac145fc2cf5" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="193f18e6-6496-4364-abdf-88b7d37d087e" name="CBar" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="77694187-f81c-4cf0-89b4-7e97ab9c7df0" />
+        <ownedAttributesInternal>
+          <property Id="b7830c8c-8435-4d76-810a-444f976a1291" name="Attribute1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="5080b55d-5d21-436c-9b60-eb53940537f7" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="54bd56da-baa6-41f0-b1fb-6503f3bca50a" name="MainFrm" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d139c61a-4f32-4b5a-95b6-927b018fc29a" />
+        <ownedAttributesInternal>
+          <property Id="f13cb052-c878-49b7-ab54-262bb6a90b49" name="m_wndMenuBar" visibility="Protected" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="ccbf7a85-6a53-45d8-ae9d-be371d1192b0" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="ad8b9973-3f9b-4dc4-9e0a-09d4dc505ae5" LastKnownName="CMFCMenuBar" />
+            </type_NamedElement>
+          </property>
+          <property Id="741cdc02-6eff-4d4c-9e40-cbcd742f9140" name="m_wndToolBar" visibility="Protected" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <description>工具条对象</description>
+            <elementDefinition Id="003ab9fa-e19d-4bb7-b2c6-8f3f73bdce16" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="08b4dafd-eeab-4d55-998f-6ebe8e86168f" LastKnownName="CMFCToolBar" />
+            </type_NamedElement>
+          </property>
+          <property Id="9d0b2616-ba2f-4089-94ca-5150a2afb4e9" name="m_wndStatusBar" visibility="Protected" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b381ba1f-9a6e-499b-953c-74bbbf9953ef" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="ff13481e-6b2a-474b-a6e4-fdfe1e672fa6" LastKnownName="CMFCStatusBar" />
+            </type_NamedElement>
+          </property>
+          <property Id="32c3c9ca-4533-4dba-8c09-f1be5591d59e" name="m_wndProperties" visibility="Protected" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="cc773666-a9a2-4873-9c25-cc4566c1e7a5" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="c1c81bb3-ff9e-49c7-8a4c-ff04db882242" LastKnownName="CPropertiesWnd" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="08b4dafd-eeab-4d55-998f-6ebe8e86168f" name="CMFCToolBar" isAbstract="false" isLeaf="false" cachedFullName="CMFCToolBar">
+        <elementDefinition Id="51cb450d-fb33-47c2-a5b5-23298b8402e4" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ad8b9973-3f9b-4dc4-9e0a-09d4dc505ae5" name="CMFCMenuBar" isAbstract="false" isLeaf="false" cachedFullName="CMFCMenuBar">
+        <elementDefinition Id="1301f242-3a76-41e4-8ef6-33edd447443b" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="c1c81bb3-ff9e-49c7-8a4c-ff04db882242" name="CPropertiesWnd" isAbstract="false" isLeaf="false" cachedFullName="CPropertiesWnd">
+        <elementDefinition Id="4a41207b-d237-409b-9a13-0adb9e47f6a4" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ff13481e-6b2a-474b-a6e4-fdfe1e672fa6" name="CMFCStatusBar" isAbstract="false" isLeaf="false" cachedFullName="CMFCStatusBar">
+        <elementDefinition Id="7bda151b-8bec-40a3-9ae0-c1954cc9d676" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="53424aaf-8851-40ca-9a1e-fcd4d7d1f487" name="Siemens">
+    <elementDefinition Id="6cfb1256-5ddd-4dc3-be3c-a138dc8f03d5" />
+  </package>
+</logicalClassDesignerModel>
