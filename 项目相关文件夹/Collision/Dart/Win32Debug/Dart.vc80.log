@@ -1,0 +1,29 @@
+﻿生成启动时间为 2013/8/28 15:45:40。
+     1>项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\Collision\Dart\Dart.vc80.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Win32Debug\Dart.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /D _DEBUG /D DEBUG /D WIN32 /D _WINDOWS /D __ANSI_CPP__ /D __STDC__ /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Win32Debug/" /Fd".\Win32Debug/vc100.pdb" /FR".\Win32Debug/" /Gd /TP /analyze- /errorReport:prompt Dart.cxx
+         Dart.cxx
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Win32Debug\Dart.exe.embed.manifest.res" .\Win32Debug\Dart_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Win32Debug/Dart.exe" /INCREMENTAL /NOLOGO wsock32.lib glu32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Win32Debug\Dart.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Win32Debug/Dart.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Win32Debug\Dart.lib" /MACHINE:X86 .\Win32Debug\Dart.exe.embed.manifest.res
+         .\Win32Debug/Dart.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Win32Debug\Dart.exe.embed.manifest" /manifest .\Win32Debug\Dart.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Win32Debug\Dart.exe.embed.manifest.res" .\Win32Debug\Dart_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Win32Debug/Dart.exe" /INCREMENTAL /NOLOGO wsock32.lib glu32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Win32Debug\Dart.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Win32Debug/Dart.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Win32Debug\Dart.lib" /MACHINE:X86 .\Win32Debug\Dart.exe.embed.manifest.res
+         .\Win32Debug/Dart.obj
+         Dart.vc80.vcxproj -> C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\Collision\Dart\.\Win32Debug\Dart.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Win32Debug\Dart.bsc" .\Win32Debug/Dart.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Win32Debug\Dart.unsuccessfulbuild”。
+         正在对“.\Win32Debug\Dart.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\项目相关文件夹\Collision\Dart\Dart.vc80.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.72

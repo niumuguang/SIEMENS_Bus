@@ -1,0 +1,54 @@
+﻿生成启动时间为 2013/8/27 10:43:52。
+     1>项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\SIEMENS_Bus\SIEMENS_Bus.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+         正在创建目录“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\”。
+     1>InitializeBuildStatus:
+         正在创建“Win32\\vc100\SIEMENS_Bus.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\\vc100\SIEMENS_Bus.pch" /Fo"Win32\\vc100\\" /Fd"Win32\\vc100\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\\vc100\SIEMENS_Bus.pch" /Fo"Win32\\vc100\\" /Fd"Win32\\vc100\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp OutputWnd.cpp PropertiesWnd.cpp SIEMENS_Bus.cpp SIEMENS_BusDoc.cpp SIEMENS_BusView.cpp
+         SIEMENS_BusView.cpp
+         SIEMENS_BusDoc.cpp
+         SIEMENS_Bus.cpp
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IWin32\\vc100\ /nologo /fo"Win32\\vc100\SIEMENS_Bus.res" SIEMENS_Bus.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Win32\\vc100\SIEMENS_Bus.exe.embed.manifest.res" Win32\\vc100\SIEMENS_Bus_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\SIEMENS_Bus.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Win32\\vc100\SIEMENS_Bus.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\vc100\SIEMENS_Bus.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\SIEMENS_Bus.lib" /MACHINE:X86 Win32\\vc100\SIEMENS_Bus.res
+         Win32\\vc100\SIEMENS_Bus.exe.embed.manifest.res
+         Win32\\vc100\MainFrm.obj
+         Win32\\vc100\OutputWnd.obj
+         Win32\\vc100\PropertiesWnd.obj
+         Win32\\vc100\SIEMENS_Bus.obj
+         Win32\\vc100\SIEMENS_BusDoc.obj
+         Win32\\vc100\SIEMENS_BusView.obj
+         Win32\\vc100\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Win32\\vc100\SIEMENS_Bus.exe.embed.manifest" /manifest Win32\\vc100\SIEMENS_Bus.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Win32\\vc100\SIEMENS_Bus.exe.embed.manifest.res" Win32\\vc100\SIEMENS_Bus_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\SIEMENS_Bus.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Win32\\vc100\SIEMENS_Bus.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\vc100\SIEMENS_Bus.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\SIEMENS_Bus.lib" /MACHINE:X86 Win32\\vc100\SIEMENS_Bus.res
+         Win32\\vc100\SIEMENS_Bus.exe.embed.manifest.res
+         Win32\\vc100\MainFrm.obj
+         Win32\\vc100\OutputWnd.obj
+         Win32\\vc100\PropertiesWnd.obj
+         Win32\\vc100\SIEMENS_Bus.obj
+         Win32\\vc100\SIEMENS_BusDoc.obj
+         Win32\\vc100\SIEMENS_BusView.obj
+         Win32\\vc100\stdafx.obj
+         SIEMENS_Bus.vcxproj -> C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\Win32\\vc100\SIEMENS_Bus.exe
+       FinalizeBuildStatus:
+         正在删除文件“Win32\\vc100\SIEMENS_Bus.unsuccessfulbuild”。
+         正在对“Win32\\vc100\SIEMENS_Bus.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Lio\Documents\GitHub\SIEMENS_Bus\SIEMENS_Bus\SIEMENS_Bus.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.89
